@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Steelmanprotabos</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello software fragment</string>
+    <string name="license">By downloading or using this software or accompanying documentation you agree to the following terms and conditions.
+        You are hereby granted a personal, non-transferable and non-sublicenseable, nonexclusive, world-wide, royalty free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the program examples and sample applications and any such derivative works, in source code and object code form.  Except for the copyright license above, you are granted no other rights or licenses, by implication, or estoppel, or otherwise, under any patents or other intellectual property rights.
+        Your rights under this Agreement shall terminate if you fail to comply with any of the material terms or conditions of this Agreement and do not cure such failure in a reasonable period of time after becoming aware of such noncompliance.  If all your rights under this Agreement terminate, you agree to cease use of the Sample Applications and any derivative works thereof immediately.
+        This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America.  No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose.  Each party waives its rights to a jury trial in any resulting litigation.
+    </string>
+</resources>
